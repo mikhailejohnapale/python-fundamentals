@@ -10,3 +10,7 @@ print(a)
 
 # access 1st element in the list
 print(a[0])
+
+# remove last element inserted
+a.pop()
+print(a)
