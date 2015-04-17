@@ -1,4 +1,4 @@
-# 32-exeptions.py
+# 32-exceptions.py
 
 try:
     file = open('samples.txt', 'r')
